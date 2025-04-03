@@ -13,7 +13,7 @@ export default function Home() {
           <Image
             src={Space}
             alt=""
-            className='rounded-4xl '
+            className='rounded-4xl w-full h-1/3 object-cover'
           />
         </div>
       </section>
